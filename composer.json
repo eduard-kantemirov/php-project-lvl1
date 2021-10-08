@@ -1,10 +1,16 @@
 {
-    "name": "hexlet/code",
+    "description": "Первый композер.джсон для проекта Брейн-геймс на Хекслете",
+	"license": "MIT",
+	
+	"name": "hexlet/code",
     "authors": [
         {
             "name": "eduard-kantemirov",
             "email": "elukmanov@inbox.ru"
         }
     ],
+	"bin": [
+			"bin/brain-games"
+	],
     "require": {}
 }
